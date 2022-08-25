@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henryklinck
-- 👀 I’m interested in Programming, Crypto-based systems and anything Tech-related!
+- 👀 I’m interested in Web 3, AI systems and Data Science!
 - 🌱 I’m currently learning at UofT
 - 📫 You can email me at henry.klinck@mail.utoronto.ca
 
